@@ -48,7 +48,7 @@ gcc -O2 search_casefilter.c -o search_casefilter
 ```bash
 /usr/bin/time -f 'search %e' ./search_casefilter test-data/query_100k output/index_casefilter_100k > /dev/null
 # record_perf でCSV記録
-gcc -O2 record_perf.c -o record_perf  # 未ビルドなら
+gcc -O2 scripts/record_perf.c -o record_perf  # 未ビルドなら
 ./record_perf --record -- ./search_casefilter test-data/query_100k output/index_casefilter_100k > /dev/null
 ```
 
