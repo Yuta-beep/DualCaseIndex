@@ -1,0 +1,2 @@
+timestamp_utc,executable,query_file,index_file,dataset,elapsed_seconds,hit_count,return_code
+2025-12-15T14:51:38Z,./search_casefilter,test-data/query_3,output/index_casefilter_3,3,7.018281,453584,0

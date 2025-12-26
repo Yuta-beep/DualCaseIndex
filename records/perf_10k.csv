@@ -1,0 +1,10 @@
+timestamp_utc,executable,query_file,index_file,dataset,elapsed_seconds,hit_count,return_code
+2025-12-14T09:46:18Z,./search_mih,test-data/query_10k,output/index_mih_10k,10k,0.027047,49,0
+2025-12-14T09:47:36Z,./search_casefilter,test-data/query_10k,output/index_casefilter_10k,10k,0.072989,52,0
+2025-12-14T09:48:53Z,./search_lsh,test-data/query_10k,output/index_lsh_10k,10k,0.040323,40,0
+2025-12-14T15:31:15Z,./search_casefilter,test-data/query_10k,output/index_casefilter_10k,10k,0.097124,52,0
+2025-12-14T16:17:08Z,./search_mih,test-data/query_10k,output/index_mih_10k,10k,0.027436,49,0
+2025-12-14T16:34:55Z,./search_mih,test-data/query_10k,output/index_mih_10k,10k,0.020124,49,0
+2025-12-14T16:35:18Z,./search_casefilter,test-data/query_10k,output/index_casefilter_10k,10k,0.019256,38,0
+2025-12-14T16:37:38Z,./search_mih,test-data/query_10k,output/index_mih_10k,10k,0.017285,49,0
+2025-12-15T04:30:16Z,./search_casefilter,test-data/query_10k,output/index_casefilter_10k,10k,0.028669,52,0

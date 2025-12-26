@@ -1,0 +1,2 @@
+timestamp_utc,executable,query_file,index_file,dataset,elapsed_seconds,hit_count,return_code
+2025-12-14T09:49:00Z,./search_lsh,test-data/query_20k,output/index_lsh_20k,20k,0.121655,137,0

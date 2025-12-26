@@ -1,0 +1,13 @@
+# build artifacts
+prep_casefilter
+search_casefilter
+record_perf
+*.o
+
+# outputs
+output/
+
+
+# editor/OS
+*~
+.DS_Store
